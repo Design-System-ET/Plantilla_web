@@ -90,10 +90,12 @@ Asegurate de que la URL en el sitemap.xml sea correcta y accesible para los moto
 
 **site.webmanifest**
 
-En este archivo, debes modificar los datos para que corresponsan a los de tu sitio web.
+En este archivo, debes modificar los datos para que correspondan a los de tu sitio web.
 
 ## Dependencias
 * Bootstrap: Framework CSS para diseno responsivo, a traves de CDN.
+* Font Awesome: Libreria de iconos.
+* SweetAlert2: Libreria de alertas.
 * Webpack: Herramienta para empaquetar JavaScript.
 * node-sass: Compilador de SCSS a CSS.
 * live-server: Servidor local para desarrollo
