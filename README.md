@@ -12,7 +12,7 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Design-System-ET/Plantilla_web.git
    
 2. Navega al directorio del proyeto:
    
